@@ -2,7 +2,7 @@ API Rest para una aplicación de música, tipo Spotify, donde los usuarios regis
 Esta API se conecta con una base de datos no relacional (MongoDB) con varias colecciones.
 Estas son: 
   - users
-  - artist
+  - artists
   - albums
   - songs
 
@@ -12,6 +12,6 @@ API Rest for a music application, like Spotify, where registered users can uploa
 This API connects to a non-relational database (MongoDB) with multiple collections.
 These are: 
 - users
-- artist
+- artists
 - albums
 - songs
